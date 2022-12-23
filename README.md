@@ -42,7 +42,7 @@ Log into your gateway via the Web UI and head to the LoRa Network -> Network Set
 
 Make sure to select "Packet Forwarder" for the Mode of operation in case you were using another. Click Switch, Save & Apply.
 
-https://github.com/HoBoWAN/Helium-Data-Only-Hotspot/blob/main/images/GatewayLogin.png
+<img width="474" alt="SwitchPacketForwarder" src="https://user-images.githubusercontent.com/69798697/209350138-ff19b7a3-5eae-4327-9cd5-8a0e3e9224ba.png">
 
 When the mode has been switched you need to make sure that you are using the following settings:
 
@@ -54,7 +54,7 @@ Server Port Down: 1680
 
 Update them in the respective fields (see example image below). Leave the rest of the fields with their default values. Save & Apply via the button at the end of the page.
 
-![acketForwarderSettings](.\images\PacketForwarderSettings.png)
+![PacketForwarderSettings](https://user-images.githubusercontent.com/69798697/209349655-f2968c9a-2323-4961-b8e5-4fddd13e0027.png)
 
 ## Setting up the miner
 
