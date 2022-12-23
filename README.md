@@ -42,7 +42,7 @@ Log into your gateway via the Web UI and head to the LoRa Network -> Network Set
 
 Make sure to select "Packet Forwarder" for the Mode of operation in case you were using another. Click Switch, Save & Apply.
 
-![SwitchPacketForwarder](.\images\SwitchPacketForwarder.png)
+https://github.com/HoBoWAN/Helium-Data-Only-Hotspot/blob/main/images/GatewayLogin.png
 
 When the mode has been switched you need to make sure that you are using the following settings:
 
